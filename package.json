@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexsmith2910/npx_cli.git"
+    "url": "git+https://github.com/alexsmith2910/npx_alexsmith_cli.git"
   },
   "type": "module",
   "scripts": {
