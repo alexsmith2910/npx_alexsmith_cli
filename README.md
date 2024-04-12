@@ -53,6 +53,8 @@ This project was a fun - hobby project that was made to enhance my [profile](htt
 
 Essentially, it allows a user to run an `npx` command and see a cli with a business card, links, contact info, etc.
 
+Credit to [Jack Boberg](https://jackboberg.info/) - he inspiered me to make this cli business card, and I used this [guide](https://studioelsa.se/blog/open-source-oss-npx-business-card/) to help me make it.
+
 
 ### Built With
 
